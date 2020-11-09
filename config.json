@@ -1,6 +1,6 @@
 {
-  "webhookID": "775385787822506034",
-  "webhookToken": "JG9fcYbVWRMNfzHEjUN-EXOvbQvFwP01njN9qrDv0Okyg2VFLw1YIzGmWHKQkP-Bzy3j",
+  "webhookID": "775418432874610749",
+  "webhookToken": "gq8wi9YhE69ERYHzPoec6AgTqXXgs8R2q42uey9qWD_n3U16WKm3yO2smyRcwu1w78hM",
   "interval": 1,
   "watchlist": ["ethereum", "bitcoin"],
   "compare": ["usd", "eur"]
